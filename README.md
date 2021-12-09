@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+“Transforming businesses and people's lives through technology”.
+It's the purpose that moves me, that drives me to action.
+
 - 🌱 I’m currently learning Python, Analytics Engineering and Scrum
