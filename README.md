@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - I code for human, not machines
 - Make it work then make it readable
 
+
+
+**About me**
+---
 - 🔭 I’m currently working on Data Engineering, Python, dbt, Power BI, Tableau.
 - 🌱 I’m currently learning English.
 - 👯 I’m looking to collaborate on Data Analytics projects...
