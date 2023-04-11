@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Make it work then make it readable
 
 
-**I’m currently learning**
+**I’m currently exploring**
 ---
 - Scrum
 - Data Engineering
