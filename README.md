@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Analytics projects...
 - 🤔 I’m looking for help with English.
 - 💬 Ask me about Web, CSS, HTML, Javascript, 
-- 📫 How to reach me: david.dumke@gmail.com / ![Linkedin](https://www.linkedin.com/in/daviddumke/)
+- 📫 How to reach me: david.dumke@gmail.com / [Linkedin](https://www.linkedin.com/in/daviddumke/)
 - 🤝 I’m available for freelancing.
 - ⚡ Fun fact: I love Astronomy.
 
