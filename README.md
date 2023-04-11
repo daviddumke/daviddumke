@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ---
 
 - “Transforming businesses and people's lives through technology”. It's the purpose that moves me, that drives me to action.
-
 - We code for human, not machines
 - Make it work then make it readable
 
