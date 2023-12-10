@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 **Skills**
 ---
-
 - Data Engineering
 - Extract, Transform, Load (ETL)
 - SQL
@@ -54,8 +53,7 @@ Here are some ideas to get you started:
 - Business Intelligence (BI)
 - Key Performance Indicators
 - Data Visualization
-- Data Analytics
- 
+- Data Analytics 
 - Information Technology
 - Project Management
 - Agile Project Management
@@ -63,7 +61,6 @@ Here are some ideas to get you started:
 - Business Process
 - Business Process Mapping
 - BPMN
-
 - Time Management
 - Leadership
 - Negotiation
