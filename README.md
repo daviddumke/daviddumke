@@ -39,33 +39,37 @@ Here are some ideas to get you started:
 **Skills**
 ---
 
+- Data Engineering
+- Extract, Transform, Load (ETL)
+- SQL
 - Python (Programming Language)
-- Business Intelligence (BI)
-- Business Process
+- Docker
+- Apache Airflow
+- dbt (data build tool)
+- GCP (Google Cloud Platform)
+- Google BigQuery
 - Data Governance
+- Data Warehousing
+- Data Analysis 
+- Business Intelligence (BI)
+- Key Performance Indicators
+- Data Visualization
+- Data Analytics
+ 
+- Information Technology
 - Project Management
 - Agile Project Management
 - Agile Methodologies
-- Extract, Transform, Load (ETL)
-- Information Technology
+- Business Process
 - Business Process Mapping
 - BPMN
+
 - Time Management
 - Leadership
 - Negotiation
 - Emotional Intelligence
 - Problem Solving
 - Communication
-- Data Engineering
-- Apache Airflow
-- dbt (data build tool)
-- Google BigQuery
-- GCP (Google Cloud Platform)
-- Data Visualization
-- Data Analytics
-- Data Warehousing
-- Data Analysis
-- SQL
 - English
 
 ![daviddumke](https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
