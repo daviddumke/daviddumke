@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **About me**
 ---
-- 🔭 I’m currently working on Data Engineering, Python, dbt, Apache Airflow, Google BigQuery, Power BI, Tableau.
+- 🔭 I’m currently working on Data Engineering, Apache Spark, Python, dbt, Apache Airflow, Google BigQuery, Power BI, Tableau.
 - 🌱 I’m currently learning English.
 - 👯 I’m looking to collaborate on Data Analytics projects...
 - 🤔 I’m looking for help with English.
