@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 **About me**
 ---
-- 🔭 I’m currently working on Data Engineering, Apache Spark, Python, dbt, Apache Airflow, Google BigQuery, Power BI, Tableau.
+- 🔭 I’m currently working on Data Engineering, Python, dbt, Apache Airflow, Google BigQuery, Power BI, Tableau.
 - 🌱 I’m currently learning English.
 - 👯 I’m looking to collaborate on Data Analytics projects...
-- 🤔 I’m looking for help with English.
 - 📫 How to reach me: david.dumke@gmail.com / [Linkedin](https://www.linkedin.com/in/daviddumke/)
 - 🤝 I’m available for freelancing.
 - ⚡ Fun fact: I love Astronomy.
@@ -46,6 +45,7 @@ Here are some ideas to get you started:
 - Apache Airflow
 - dbt (data build tool)
 - GCP (Google Cloud Platform)
+- Kubernetes
 - Google BigQuery
 - Data Governance
 - Data Warehousing
