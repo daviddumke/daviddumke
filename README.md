@@ -1,15 +1,13 @@
 # 👋 Hi, I'm David Renato Dumke
 
-🚀 **Data Engineer | Cloud & DevOps Enthusiast | Web Developer**  
+**Data Engineer and Analytics Engineer | Cloud & DevOps Enthusiast | Web Developer**  ![dbt Certification](https://img.shields.io/badge/dbt-Certified-FF694B?logo=dbt&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/daviddumke)  
-
----
+📩 **Email**: david.dumke@gmail.com 
 
 ## 🔹 About Me  
 
 I’m a **Data Engineer** with experience in **Python, SQL, dbt, Airflow, and BigQuery**, specializing in building scalable data pipelines, optimizing cloud infrastructure, and enabling data-driven decision-making. With a strong background in **data analytics, DevOps, and web development**, I enjoy solving complex problems and transforming raw data into actionable insights.  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -39,19 +37,5 @@ I’m a **Data Engineer** with experience in **Python, SQL, dbt, Airflow, and Bi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-
----
-
-## 🏆 Certifications  
-
-🎓 **dbt Developer Certification** | _Jun 2024_  
-![dbt Certification](https://img.shields.io/badge/dbt-Certified-FF694B?logo=dbt&logoColor=white)  
-
----
-
-## 📫 Let's Connect!  
-
-📩 **Email**: david.dumke@gmail.com  
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/daviddumke)  
 
 Looking forward to collaborating and contributing to the open-source community! 🚀
