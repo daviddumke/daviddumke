@@ -1,7 +1,7 @@
 # 👋 Hi, I'm David Renato Dumke
 
 🚀 **Data Engineer | Cloud & DevOps Enthusiast | Web Developer**  
-📍 Rio do Sul, SC, Brazil | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/daviddumke)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/daviddumke)  
 
 ---
 
