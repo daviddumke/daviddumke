@@ -1,72 +1,63 @@
-### Hi there 👋 I'm David.
+# 👋 Hi, I'm David Renato Dumke
 
-<!--
-**daviddumke/daviddumke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | Cloud & DevOps Enthusiast | Web Developer**  
+📍 Rio do Sul, SC, Brazil | [LinkedIn](https://www.linkedin.com/in/daviddumke) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔹 About Me  
+
+I’m a **Data Engineer** with experience in **Python, SQL, dbt, Airflow, and BigQuery**, specializing in building scalable data pipelines, optimizing cloud infrastructure, and enabling data-driven decision-making. With a strong background in **data analytics, DevOps, and web development**, I enjoy solving complex problems and transforming raw data into actionable insights.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Data Engineering & Analytics**  
+- **Languages**: Python, SQL  
+- **Data Tools**: Meltano, Airflow, dbt (Certified), BigQuery  
+- **BI & Analytics**: Power BI, Tableau, Excel  
+
+### **DevOps & Infrastructure**  
+- **Cloud**: Google Cloud Platform (GCP)  
+- **CI/CD & Automation**: GitOps, Kubernetes, Docker  
+
+### **Web Development**  
+- **Backend**: Django, PHP  
+- **Frontend**: JavaScript, HTML, CSS  
+
+### **Soft Skills**  
+- Communicating technical concepts clearly  
+- Anticipating and resolving issues  
+- Leading cross-functional teams  
+<--
+---
+
+## 📂 Featured GitHub Projects  
+
+### 🔹 **[Project Name](#)**  
+_A short description of the project._  
+- **Tech Used**: Python, SQL, dbt, Airflow  
+- **Features**: Data ingestion, transformation, visualization  
+
+### 🔹 **[Project Name](#)**  
+_A short description of another project._  
+- **Tech Used**: Django, PostgreSQL, Kubernetes  
+- **Features**: Web application, API integration  
+
+More projects coming soon! 🚀  
 -->
-
-
-**My philosophy**
 ---
 
-- “Transforming businesses and people's lives through technology”. It's the purpose that moves me, that drives me to action.
-- I code for human, not machines
-- Make it work then make it readable
+## 🏆 Certifications  
 
+🎓 **dbt Developer Certification** | _Jun 2024_    
 
-
-**About me**
 ---
-- 🔭 I’m currently working on Data Engineering, Python, dbt, Apache Airflow, Google BigQuery, Power BI, Tableau.
-- 🌱 I’m currently learning English.
-- 👯 I’m looking to collaborate on Data Analytics projects...
-- 📫 How to reach me: david.dumke@gmail.com / [Linkedin](https://www.linkedin.com/in/daviddumke/)
-- 🤝 I’m available for freelancing.
-- ⚡ Fun fact: I love Astronomy.
 
+## 📫 Let's Connect!  
 
-**Skills**
----
-- Data Engineering
-- Extract, Transform, Load (ETL)
-- SQL
-- Python (Programming Language)
-- Docker
-- Apache Airflow
-- dbt (data build tool)
-- GCP (Google Cloud Platform)
-- Kubernetes
-- Google BigQuery
-- Data Governance
-- Data Warehousing
-- Data Analysis 
-- Business Intelligence (BI)
-- Key Performance Indicators
-- Data Visualization
-- Data Analytics 
-- Information Technology
-- Project Management
-- Agile Project Management
-- Agile Methodologies
-- Business Process
-- Business Process Mapping
-- BPMN
-- Time Management
-- Leadership
-- Negotiation
-- Emotional Intelligence
-- Problem Solving
-- Communication
-- English
+📩 **Email**: david.dumke@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/daviddumke](https://www.linkedin.com/in/daviddumke)  
 
-![daviddumke](https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+Looking forward to collaborating and contributing to the open-source community! 🚀
