@@ -1,8 +1,11 @@
 # 👋 Hi, I'm David Renato Dumke
 
-**Data Engineer and Analytics Engineer | Cloud & DevOps Enthusiast | Web Developer**  ![dbt Certification](https://img.shields.io/badge/dbt-Certified-FF694B?logo=dbt&logoColor=white)
+**Data Engineer and Analytics Engineer | Cloud & DevOps Enthusiast | Web Developer**  
+![dbt Certification](https://img.shields.io/badge/dbt-Certified-FF694B?logo=dbt&logoColor=white)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/daviddumke)  
-📩 **Email**: david.dumke@gmail.com 
+📩 david.dumke@gmail.com 
 
 ## 🔹 About Me  
 
