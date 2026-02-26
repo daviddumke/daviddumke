@@ -1,19 +1,14 @@
 # 👋 Hi, I'm David Renato Dumke
 
-**Data Engineer and Analytics Engineer | Cloud & DevOps Enthusiast | Web Developer**  
+**Data Engineer | Python, SQL, dbt & GCP | Turning Data into Actionable Insights**  
+#DataEngineering #ETL #ELT #Python #SQL #dbt #GCP #BigQuery #PowerBI #DataWarehousing
 ![dbt Certification](https://img.shields.io/badge/dbt-Certified-FF694B?logo=dbt&logoColor=white)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/daviddumke)  
 📩 david.dumke@gmail.com 
 
 ## 🔹 About Me  
 
-Data Engineer | Python, SQL, dbt & GCP | Turning Data into Actionable Insights
-
 Data Engineer specializing in cloud-native data platforms on Google Cloud. Experienced in designing scalable ELT architectures, optimizing BigQuery warehouses for cost and performance, and building reliable, production-grade ingestion frameworks in Python. Proven track record of leading data initiatives, reducing infrastructure costs, and improving data reliability in enterprise environments.
-
-#DataEngineering #ETL #ELT #Python #SQL #dbt #GCP #BigQuery #PowerBI #DataWarehousing
 
 ## 🛠️ Tech Stack  
 
