@@ -31,11 +31,4 @@ Data Engineer specializing in cloud-native data platforms on Google Cloud. Exper
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 
-### **Web Development**  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-
 Looking forward to collaborating and contributing to the open-source community! 🚀
