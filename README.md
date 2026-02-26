@@ -9,8 +9,11 @@
 
 ## 🔹 About Me  
 
-I’m a **Data Engineer** with experience in **Python, SQL, dbt, Airflow, and BigQuery**, specializing in building scalable data pipelines, optimizing cloud infrastructure, and enabling data-driven decision-making. With a strong background in **data analytics, DevOps, and web development**, I enjoy solving complex problems and transforming raw data into actionable insights.  
+Data Engineer | Python, SQL, dbt & GCP | Turning Data into Actionable Insights
 
+Data Engineer specializing in cloud-native data platforms on Google Cloud. Experienced in designing scalable ELT architectures, optimizing BigQuery warehouses for cost and performance, and building reliable, production-grade ingestion frameworks in Python. Proven track record of leading data initiatives, reducing infrastructure costs, and improving data reliability in enterprise environments.
+
+#DataEngineering #ETL #ELT #Python #SQL #dbt #GCP #BigQuery #PowerBI #DataWarehousing
 
 ## 🛠️ Tech Stack  
 
