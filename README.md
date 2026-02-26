@@ -12,12 +12,12 @@ Data Engineer specializing in cloud-native data platforms on Google Cloud. Exper
 ## 🛠️ Tech Stack  
 
 ### **Data Engineering & Analytics**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
-![Meltano](https://img.shields.io/badge/Meltano-FFB600?logo=meltano&logoColor=white)  
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)  
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)  
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Meltano](https://img.shields.io/badge/Meltano-FFB600?logo=meltano&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)
 
 ### **BI & Analytics**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)  
