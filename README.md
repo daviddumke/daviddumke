@@ -1,5 +1,6 @@
 # 👋 Hi, I'm David Renato Dumke
 **Data Engineer | Python, SQL, dbt & GCP | Turning Data into Actionable Insights**  
+
 ![dbt Certification](https://img.shields.io/badge/dbt-Certified-FF694B?logo=dbt&logoColor=white)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/daviddumke)  
 📩 david.dumke@gmail.com 
