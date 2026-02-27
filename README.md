@@ -11,12 +11,12 @@ Data Engineer specializing in cloud-native data platforms on Google Cloud. Exper
 
 ## 🛠️ Tech Skills  
 
-**Data Engineering:** ELT/ETL, Python, SQL, dbt, Airflow, REST APIs, dimensional modeling, data lake & warehouse architecture.
-**Performance & Optimization:** Query optimization, partitioning & clustering strategies, pipeline monitoring, cost optimization.
-**Data Analytics & Visualization:** Power BI (semantic modeling), Tableau, exploratory data analysis.
-**Cloud & Data Platforms:** Google Cloud Platform (GCP), BigQuery, Cloud Storage (GCS), Pub/Sub, Dataflow, AWS (basic).
-**DevOps & Automation:** Git, CI/CD, Docker, Kubernetes (GKE), Terraform (basic).
-
+**Data Engineering:** ELT/ETL, Python, SQL, dbt, Airflow, REST APIs, dimensional modeling, data lake & warehouse architecture.  
+**Performance & Optimization:** Query optimization, partitioning & clustering strategies, pipeline monitoring, cost optimization.  
+**Data Analytics & Visualization:** Power BI (semantic modeling), Tableau, exploratory data analysis.  
+**Cloud & Data Platforms:** Google Cloud Platform (GCP), BigQuery, Cloud Storage (GCS), Pub/Sub, Dataflow, AWS (basic).  
+**DevOps & Automation:** Git, CI/CD, Docker, Kubernetes (GKE), Terraform (basic).  
+  
 ### **Data Engineering & Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
